@@ -15,8 +15,8 @@ Depois use o módulo assim:
 
 >>>[1,4,6,8,9]
 
-<c é igual a crescente
->d é igual a decrescente
+'<c' é igual a crescente
+'>d' é igual a decrescente
 
 ajuda:
 
